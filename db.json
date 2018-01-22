@@ -1,36 +1,62 @@
 {
 	"categories": [{
 			"id": 1,
-			"title": "cat1"
+			"title": "cat1",
+			"key": "Adhesives, Sealants & Tapes",
+			"value" : "cat1"
 		},
 		{
 			"id": 2,
-			"title": "cat2"
+			"title": "cat2",
+			"key": "Bearings & Power Transmission",
+			"value" : "cat2"
 		}, {
 			"id": 3,
-			"title": "cat3"
+			"title": "cat3",
+			"key": "Caps & Plugs",
+			"value" : "cat3"
 		}
 	],
 	"cat1": [{
 			"id": 1,
-			"SKU": "1"
+			"SKU": "477174",
+			"name" : "Applicator",
+			"unitPrice" : "70.64",
+			"description" : "Duraco ATG Tapes width 6.35 mm",
+			"imageUrl": "http://www.essentracomponents.com/wcsstore7.00.00.1079/ExtendedSitesCatalogAssetStore/images/Web%20Feed%20140x140px/std.lang.all/1301110.jpg"
 		},
 		{
 			"id": 2,
-			"SKU": "2"
+			"SKU": "2",
+			"name" : "White Permanent Twin Stick - 25.4 mm by 19.1 mm, 0.8 mm thick",
+			"unitPrice" : "65.32",
+			"description" : "Removability Permanent",
+			"imageUrl": "http://www.essentracomponents.com/wcsstore7.00.00.1079/ExtendedSitesCatalogAssetStore/images/Web%20Feed%20140x140px/std.lang.all/15634.jpg"
 		}
 	],
 	"cat2": [{
 			"id": 3,
-			"SKU": "3"
+			"SKU": "1337548",
+			"name" : "NEW Shaft Collars - Threaded Bore Clamp",
+			"unitPrice" : "1.14",
+			"description" : "Most commonly used and cost effective Shaft Collars",
+			"imageUrl": "http://www.essentracomponents.com/wcsstore7.00.00.1079/ExtendedSitesCatalogAssetStore/images/Web%20Feed%20140x140px/std.lang.all/1426841.jpg"
 		},
 		{
 			"id": 4,
-			"SKU": "4"
+			"SKU": "BB625-B18010ES",
+			"name" : "Open Ball Bearing - Outside Diameter: 16.0 mm, Bore Diameter: 5.0 mm",
+			"unitPrice" : "8.02",
+			"description" : "Single Row Radial",
+			"imageUrl": "http://www.essentracomponents.com/wcsstore7.00.00.1079/ExtendedSitesCatalogAssetStore/images/Web%20Feed%20140x140px/std.lang.all/1235256.jpg"
 		}
 	],
 	"cat3": [{
 		"id": 5,
-		"SKU": "5"
+		"SKU": "110317",
+		"name" : "Flange Cover - Class Pressure Rating: 6; Compatible Nominal Diameter: DN 20",
+		"unitPrice" : "7.42",
+		"description" : "Yellow PE Flexible Flange Cover protects diameter pipe flanges from damage and contaminants. The durable material is easy to fit and provides all-round protection.",
+		"imageUrl": "http://129.35.227.136/wcsstore7.00.00.1079/ExtendedSitesCatalogAssetStore/images/Web%20Feed%20140x140px/std.lang.all/1206081.jpg"
 	}]
 }
